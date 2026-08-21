@@ -1,0 +1,5 @@
+a web 8-bit resident evil inspired game, pixel art, 2.5D top-down perspective.   
+"MANSION OF THE DEAD" — a complete 8-bit Resident Evil-inspired survival horror game with pixel art and 2.5D top-down perspective. 
+Features: a 7-room tile-built mansion with painter-sorted raised walls/furniture, twin-stick shooting (WASD + mouse),  zombies with aggro/chase/attack AI plus 2 brutes, scarce ammo, green herbs for healing, 3-fuse door-unlock objective, RE-style HUD (condition/ammo/fuses), typewriter save points, room-name letterbox banners, persistent blood decals, dynamic flashlight/candlelight darkness, procedural WebAudio SFX + dread drone, screen shake and hit feedback throughout, CRT scanline dressing, and full title/pause/YOU DIED/victory screens with S–C rank scoring.   
+Player can: move, run, aim stance holding a pistol, shoot - no ballistics just auto aim to a nearest enemy, reload pistol 12 bullets in a magazine capacity. 
+Rooms: main hall, connected to corridors and dining room, library, various guest rooms. supports both mouse+keyboard and gamepad. haunted ambient background music
