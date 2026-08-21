@@ -1,4 +1,3 @@
-import './style.css';
 const W=960,H=540,T=32,MAG=12,cv=document.getElementById('game'),ctx=cv.getContext('2d'),hud=document.getElementById('hud'),screen=document.getElementById('screen'),banner=document.getElementById('banner');
 const rooms=[['MAIN HALL',10,6,10,8,'#2a2735'],['WEST CORRIDOR',2,8,8,4,'#1d2230'],['DINING ROOM',20,7,8,6,'#30231e'],['LIBRARY',3,2,7,6,'#202b26'],['EAST CORRIDOR',20,13,9,4,'#20202b'],['GUEST ROOM',22,2,6,5,'#2d242d'],['MASTER SUITE',3,13,8,5,'#2e2524']].map(([name,x,y,w,h,color])=>({name,x,y,w,h,color}));
 const doors=[[10,10],[6,8],[20,10],[24,7],[18,13],[7,13]], furn=[['stairs',14,7,2,1],['table',22,9,4,1],['shelf',5,4,3,1],['bed',24,3,2,2],['bed',5,15,3,2],['clock',16,12,1,1],['typewriter',12,12,2,1]].map(([t,x,y,w,h])=>({t,x,y,w,h}));
